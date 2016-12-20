@@ -1,0 +1,76 @@
+body {
+ background-color: pink;
+ margin: auto;
+}
+form{
+  margin: auto;
+  text-align: center;
+}
+#Box{
+	width: 75%;
+	height: 2000px;
+	background-color: paleturquoise;
+	margin: auto;
+  text-align: center;
+
+}
+#pomdoggo{
+	width: 30%;
+	height: 300px;
+  margin: auto;
+	float: left;
+
+}
+#OGdoggo{
+	width: 30%;
+	height: 300px;
+  margin: auto 5%;
+}
+#pugdoggo{
+	width: 30%;
+	height: 300px;
+	float: right;
+  margin: auto;
+}
+#corgi{
+  width: 70%;
+  margin: auto;
+}
+#navbar{
+  width: 100%;
+  height: 80px;
+  margin: auto;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  color: white;
+  text-shadow: 4px 4px pink;
+}
+.button{
+  color: white;
+   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+   width: 90px;
+   font-size: 18px;
+   height: 40px;
+   text-align: center;
+   margin: 10px 2%;
+   background-color: pink;
+   border-radius: 10px;
+   border: 0px;
+   outline: 0px;
+}
+/*.button:hover{
+  color: white;
+   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+   width: 90px;
+   font-size: 18px;
+   height: 40px;
+   text-align: center;
+   margin: 10px 2%;
+   background-color: palevioletred;
+   border-radius: 10px;
+   border: 0px;
+   outline: 0px;
+}
